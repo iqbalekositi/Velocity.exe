@@ -5,4 +5,4 @@ ini adalah virus ransomware bercanda bercandan aja lagi pula ada decryptornya ja
 dibuat di C#
 
 youtube:
-https://youtube.com/SpertonBalls2
+https://youtube.com/@SpertonBalls2
